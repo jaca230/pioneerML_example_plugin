@@ -1,0 +1,7 @@
+{
+  "name": "example_plugin",
+  "module": "pioneerml_example_plugin",
+  "version": "0.1.0",
+  "description": "Tutorial and example components for the pioneerML framework.",
+  "depends_on": []
+}
